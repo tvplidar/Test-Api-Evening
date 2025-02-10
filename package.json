@@ -1,0 +1,23 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "test project",
+  "homepage": "https://github.com/haamlezz/api-test-exam#readme",
+  "bugs": {
+    "url": "https://github.com/haamlezz/api-test-exam/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haamlezz/api-test-exam.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
